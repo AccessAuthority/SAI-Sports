@@ -1,0 +1,103 @@
+@media (max-width: 768px) {
+    section{
+        padding: 40px 10px;
+    }
+  nav{
+    padding: 10px;
+  }
+  nav .menu{
+    display: none;
+  }
+  header{
+    height: auto;
+    flex-direction: column;
+  }
+  .header-col1, .header-col2{
+    width: 100%;
+  }
+  .lft-border{
+    border-left: 1px solid #1c3330 ;
+}
+.services-cards{
+    gap: 10px;
+}
+.about{
+    height: auto;
+    flex-direction: column;
+}
+.about .abt-img{
+   display: none;
+}
+.about .abt-content{
+    width: 100%;
+}
+.abt-icon1,.abt-icon2, .abt-icon3{
+    height:100px ;
+    width: 100px;
+}
+h4{
+    font-size: 7px;
+}
+.services-cards{
+    flex-direction: column;
+}
+.s-card1{
+    width: 100%;
+}
+.products h2{
+    text-align: center;
+}
+.product-cards{
+    padding: 20px 0;
+    width: 100%;
+}
+.form-content{
+    padding: 0;
+    flex-direction: column;
+}
+.form, .address{
+    height: auto;
+    justify-content: center;
+    width: 100%;
+}
+.padding-0{
+    padding: 0 !important;
+}
+.contact-div1{
+    width: 100%;
+}
+.wcu{
+    gap: 10px;
+    flex-direction: column;
+}
+.wcu-col2, .wcu-col1{
+    width: 100%;
+} 
+.blog{
+    flex-direction: column;
+}
+.blog-title, .blog-cards{
+    width: 100%;
+}
+.sub-heading{
+    font-size: 16px;
+}
+
+footer{
+    flex-direction: column;
+}
+footer .f-card1{
+    padding: 0 10px;
+    width: 100%;
+}
+.f-card1 h3{
+    padding-top: 0;
+    padding-bottom: 10px;
+}
+.b-footer p{
+    font-size: 12px;
+}
+h2{
+    font-size: 30px;
+}
+}
