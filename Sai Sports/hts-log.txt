@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 06 Dec 2024 16:20:22 at https://gtkit.rometheme.pro/garmen/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://gtkit.rometheme.pro/garmen/ -O1 "C:\Users\SURES\Desktop\Sai Sports\Sai Sports" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:21:33	Error: 	"Method Not Allowed" (405) at link https://gtkit.rometheme.pro/garmen/xmlrpc.php (from https://gtkit.rometheme.pro/garmen/)
+16:22:27	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/garmen/?p=5
+16:22:27	Warning: 	File has moved from https://gtkit.rometheme.pro/garmen/?p=5 to https://gtkit.rometheme.pro/garmen/template-kit/homepage/
+16:22:28	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/garmen/?p=331
+16:22:28	Warning: 	File has moved from https://gtkit.rometheme.pro/garmen/?p=331 to https://gtkit.rometheme.pro/garmen/template-kit/about-us/
+16:22:28	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/garmen/?p=403
+16:22:28	Warning: 	File has moved from https://gtkit.rometheme.pro/garmen/?p=403 to https://gtkit.rometheme.pro/garmen/template-kit/services/
+16:22:28	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/garmen/?p=446
+16:22:28	Warning: 	File has moved from https://gtkit.rometheme.pro/garmen/?p=446 to https://gtkit.rometheme.pro/garmen/template-kit/service-detail/
+16:22:28	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/garmen/?p=490
+16:22:28	Warning: 	File has moved from https://gtkit.rometheme.pro/garmen/?p=490 to https://gtkit.rometheme.pro/garmen/template-kit/project/
+16:22:28	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/garmen/?p=517
+16:22:28	Warning: 	File has moved from https://gtkit.rometheme.pro/garmen/?p=517 to https://gtkit.rometheme.pro/garmen/template-kit/project-detail/
+16:22:29	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/garmen/?p=553
+16:22:29	Warning: 	File has moved from https://gtkit.rometheme.pro/garmen/?p=553 to https://gtkit.rometheme.pro/garmen/template-kit/pricing/
+16:22:29	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/garmen/?p=562
+16:22:29	Warning: 	File has moved from https://gtkit.rometheme.pro/garmen/?p=562 to https://gtkit.rometheme.pro/garmen/template-kit/team/
+16:22:29	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/garmen/?p=571
+16:22:29	Warning: 	File has moved from https://gtkit.rometheme.pro/garmen/?p=571 to https://gtkit.rometheme.pro/garmen/template-kit/faq/
+16:22:29	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/garmen/?p=584
+16:22:29	Warning: 	File has moved from https://gtkit.rometheme.pro/garmen/?p=584 to https://gtkit.rometheme.pro/garmen/template-kit/blog/
+16:22:29	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/garmen/?p=616
+16:22:29	Warning: 	File has moved from https://gtkit.rometheme.pro/garmen/?p=616 to https://gtkit.rometheme.pro/garmen/template-kit/single-post/
+16:22:30	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/garmen/?p=634
+16:22:30	Warning: 	File has moved from https://gtkit.rometheme.pro/garmen/?p=634 to https://gtkit.rometheme.pro/garmen/template-kit/404-error/
+16:22:30	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/garmen/?p=645
+16:22:30	Warning: 	File has moved from https://gtkit.rometheme.pro/garmen/?p=645 to https://gtkit.rometheme.pro/garmen/template-kit/contact-us/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 9 seconds : 284 links scanned, 269 files written (23437627 bytes overall) [15287357 bytes received at 118506 bytes/sec], 11810091 bytes transferred using HTTP compression in 198 files, ratio 29%, 13.5 requests per connection
+(1 errors, 26 warnings, 0 messages)
